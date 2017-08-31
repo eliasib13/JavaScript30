@@ -1,3 +1,7 @@
+**************
+> **Branching and tagging strategy:** In this fork, solved challenges will be pushed into _solving-challenges_ branch. Also, a **tag** will be added for each solved challenge, pointing to the last corresponding challenge commit.
+**************
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
